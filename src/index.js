@@ -17,5 +17,5 @@ app.use('/users',require('./routes/users'))
 
 //Starting Server
 app.listen(process.env.PORT || 3000, () => {
-    console.log('Server on port 3000')
+    console.log(process.env.PORT || 3000)
 })
