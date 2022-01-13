@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "carlos",
+    "email": "carlos@carlos.com",
+    "birthDate": "05/07/1990",
+    "address": {
+      "id": 1,
+      "street": "Street-fake",
+      "state": "State-fake",
+      "city": "City-fake",
+      "country": "Country-fake",
+      "zip": "Zip-fake"
+    }
+  }
+]
